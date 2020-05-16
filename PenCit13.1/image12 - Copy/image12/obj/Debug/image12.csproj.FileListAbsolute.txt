@@ -1,0 +1,37 @@
+C:\Users\azizk\source\repos\image12\image12\bin\Debug\image12.exe.config
+C:\Users\azizk\source\repos\image12\image12\bin\Debug\image12.exe
+C:\Users\azizk\source\repos\image12\image12\bin\Debug\image12.pdb
+C:\Users\azizk\source\repos\image12\image12\obj\Debug\image12.csprojAssemblyReference.cache
+C:\Users\azizk\source\repos\image12\image12\obj\Debug\image12.Form1.resources
+C:\Users\azizk\source\repos\image12\image12\obj\Debug\image12.Properties.Resources.resources
+C:\Users\azizk\source\repos\image12\image12\obj\Debug\image12.csproj.GenerateResource.cache
+C:\Users\azizk\source\repos\image12\image12\obj\Debug\image12.exe
+C:\Users\azizk\source\repos\image12\image12\obj\Debug\image12.pdb
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12\image12\bin\Debug\image12.exe.config
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12\image12\bin\Debug\image12.exe
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12\image12\bin\Debug\image12.pdb
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12\image12\obj\Debug\image12.csprojAssemblyReference.cache
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12\image12\obj\Debug\image12.Form1.resources
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12\image12\obj\Debug\image12.Properties.Resources.resources
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12\image12\obj\Debug\image12.csproj.GenerateResource.cache
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12\image12\obj\Debug\image12.exe
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12\image12\obj\Debug\image12.pdb
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12 - Copy\image12\bin\Debug\image12.exe.config
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12 - Copy\image12\bin\Debug\image12.exe
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12 - Copy\image12\bin\Debug\image12.pdb
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12 - Copy\image12\obj\Debug\image12.csprojAssemblyReference.cache
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12 - Copy\image12\obj\Debug\image12.Form1.resources
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12 - Copy\image12\obj\Debug\image12.Properties.Resources.resources
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12 - Copy\image12\obj\Debug\image12.csproj.GenerateResource.cache
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12 - Copy\image12\obj\Debug\image12.exe
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\image12 - Copy\image12\obj\Debug\image12.pdb
+C:\Users\TIARA\Downloads\image12 - Copy\image12 - Copy\image12\bin\Debug\image12.exe.config
+C:\Users\TIARA\Downloads\image12 - Copy\image12 - Copy\image12\bin\Debug\image12.exe
+C:\Users\TIARA\Downloads\image12 - Copy\image12 - Copy\image12\bin\Debug\image12.pdb
+C:\Users\TIARA\Downloads\image12 - Copy\image12 - Copy\image12\obj\Debug\image12.csprojAssemblyReference.cache
+C:\Users\TIARA\Downloads\image12 - Copy\image12 - Copy\image12\obj\Debug\image12.Form1.resources
+C:\Users\TIARA\Downloads\image12 - Copy\image12 - Copy\image12\obj\Debug\image12.Properties.Resources.resources
+C:\Users\TIARA\Downloads\image12 - Copy\image12 - Copy\image12\obj\Debug\image12.csproj.GenerateResource.cache
+C:\Users\TIARA\Downloads\image12 - Copy\image12 - Copy\image12\obj\Debug\image12.csproj.CoreCompileInputs.cache
+C:\Users\TIARA\Downloads\image12 - Copy\image12 - Copy\image12\obj\Debug\image12.exe
+C:\Users\TIARA\Downloads\image12 - Copy\image12 - Copy\image12\obj\Debug\image12.pdb
